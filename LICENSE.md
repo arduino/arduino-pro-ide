@@ -1,3 +1,7 @@
+This file includes licensing information for arduino-pro-editor
+
+Copyright (c) 2019 ARDUINO SA (www.arduino.cc)
+
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License v. 2.0 which is available at
 http://www.eclipse.org/legal/epl-2.0
