@@ -16,10 +16,10 @@ Please test the Arduino Pro IDE and report us bugs or feature requests at: https
 The Arduino Pro IDE is based on the following technologies:
 
 * [Arduino CLI](https://github.com/arduino/arduino-cli)
- Used in deamon mode is providing all the main Arduino features
+ Used in daemon mode is providing all the main Arduino features
 * [Eclipse Theia](https://github.com/eclipse-theia/theia)
 The frontend of the application is based on this [Open Source IDE](https://theia-ide.org/) 
 * [Electron](https://github.com/electron/electron)
-The framework behing [Eclipse Theia](https://theia-ide.org/), allows to use web technologies on desktop environments
+The framework behind [Eclipse Theia](https://theia-ide.org/), allows to use web technologies on desktop environments
 
 If you want to know more about the people involved please look at the [Contribution list](CONTRIBUTIONS.md)
