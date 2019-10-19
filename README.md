@@ -5,8 +5,17 @@ The Arduino IDE for advanced users and developers.
 The new Arduino IDE is a completely new Development Environment for Arduino Programming based on more modern technologies.
 This repo is a preview of the final product and has to be considered as an unstable *alpha* version.
 
-## Download
+## Getting Started
+
+### Download
 You can find the last published version in the [Releases Section](https://github.com/arduino/arduino-pro-ide/releases) of this repo
+
+### Install a core to support your board 
+The Arduino Pro IDE does not provide pre-installed cores, to have board support you have to install a core by using the menu
+
+    Tools -> Board Manager...
+
+Then search for your board and install the proper core.
 
 ## User Feedback and Issue Report
 We need your help in improving the product, before releasing the source code we want to move out of the alpha and we need your help.
