@@ -14,7 +14,7 @@ You can download this alpha preview for testing and feedback from the [Releases 
 
 ### Arduino CLI 
 
-The new IDE uses the system's PATH arduino-cli binary if found or uses its own embedded one.
+The Arduino Pro IDE uses the `arduino-cli` binary found in the system's PATH or its own embedded one if the `arduino-cli` is not found.
 So please be sure you have the latest version of the CLI as described in the [How to Install the Arduino CLI](https://github.com/arduino/arduino-cli#how-to-install) doc,
 or remove your `arduino-cli` from the system PATH
 
