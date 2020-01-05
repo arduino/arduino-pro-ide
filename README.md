@@ -43,3 +43,10 @@ The frontend of the application is based on this [Open Source IDE](https://theia
 The framework behind [Eclipse Theia](https://theia-ide.org/), allows to use web technologies on desktop environments
 
 If you want to know more about the people involved please look at the [Contribution list](CONTRIBUTIONS.md)
+
+## Releases
+This Repository doesn't hold source code yet. Its main use is to collect issues and keep track of them.
+We regularly release new versions of the compiled tool. You can find them under "Releases"
+
+v0.0.3 alpha : https://github.com/arduino/arduino-pro-ide/releases/tag/v0.0.3-alpha.preview
+
