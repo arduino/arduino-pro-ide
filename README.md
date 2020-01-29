@@ -48,5 +48,5 @@ If you want to know more about the people involved please look at the [Contribut
 This Repository doesn't hold source code yet. Its main use is to collect issues and keep track of them.
 We regularly release new versions of the compiled tool. You can find them under "Releases"
 
-v0.0.4 alpha : https://github.com/arduino/arduino-pro-ide/releases/tag/v0.0.4-alpha.preview
+Releases available at https://github.com/arduino/arduino-pro-ide/releases/
 
