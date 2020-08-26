@@ -34,18 +34,6 @@ macOS     |                          | [Nightly macOS 64 bit]   |
   date, using the format YYYYMMDD (i.e for 2019/Aug/06 `latest` is
   replaced with `20190806` )
 
-### Arduino CLI 
-
-The Arduino Pro IDE uses the `arduino-cli` binary found in the system's PATH or its own embedded one if the `arduino-cli` is not found.
-So please make sure you have the latest version of the [Arduino CLI](https://github.com/arduino/arduino-cli) as described in the [How to Install the Arduino CLI](https://github.com/arduino/arduino-cli#how-to-install) doc,
-or remove your `arduino-cli` from the system PATH.
-
-You can check your `arduino-cli` version with
-
-```
-$ arduino-cli version
-```
-
 ### Install a core to support your board 
 The Arduino Pro IDE does not provide pre-installed cores, so, to have board support, you have to install a core by using the menu
 
