@@ -10,7 +10,7 @@ The Arduino Pro IDE is a completely new Development Environment for Arduino Prog
 
 ### Download
 
-You can download this alpha preview for testing and feedback from the [Releases Section](https://github.com/arduino/arduino-pro-ide/releases) of this repo.
+You can download the latest release for testing and feedback from the [Releases Section](https://github.com/arduino/arduino-pro-ide/releases/latest) of this repo.
 *<b>Note</b>: This is not a production release!*
 
 #### Nightly builds
