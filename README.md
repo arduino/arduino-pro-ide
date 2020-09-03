@@ -32,7 +32,9 @@ macOS     |                          | [Nightly macOS 64 bit]   |
 > These links return an HTTP `302: Found` response, redirecting to latest
   generated builds by replacing `latest` with the latest available build
   date, using the format YYYYMMDD (i.e for 2019/Aug/06 `latest` is
-  replaced with `20190806` )
+  replaced with `20190806`)
+
+You can find the changelog for the nightly builds [here](https://downloads.arduino.cc/arduino-pro-ide/nightly/CHANGELOG.txt). The changelog contains all changes since the [latest release](https://github.com/arduino/arduino-pro-ide/releases/latest) in reverse chronological order.
 
 ### Install a core to support your board 
 The Arduino Pro IDE does not provide pre-installed cores, so, to have board support, you have to install a core by using the menu
