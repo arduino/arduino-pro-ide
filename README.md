@@ -19,17 +19,17 @@ These builds are generated every day at 03:00 GMT from the `master` branch of th
 should be considered unstable. In order to get the latest nightly build
 available for the supported platform, use the following links:
 
-Platform  | 32 bit                   | 64 bit                   |
---------- | ------------------------ | ------------------------ |
-Linux     |                          | [Nightly Linux 64 bit]   |
-Windows   |                          | [Nightly Windows 64 bit] |
-macOS     |                          | [Nightly macOS 64 bit]   |
+Platform    | 32 bit                     | 64 bit                     |
+----------- | :------------------------: | :------------------------: |
+**Linux**   | Not available yet          | [Nightly Linux 64 bit]     |
+**Windows** | Not available yet          | [Nightly Windows 64 bit]   |
+**macOS**   | Not available yet          | [Nightly macOS 64 bit]     |
 
 [Nightly Linux 64 bit]: https://downloads.arduino.cc/arduino-pro-ide/nightly/arduino-pro-ide_nightly-latest_Linux_64bit.zip
 [Nightly Windows 64 bit]: https://downloads.arduino.cc/arduino-pro-ide/nightly/arduino-pro-ide_nightly-latest_Windows_64bit.zip
 [Nightly macOS 64 bit]: https://downloads.arduino.cc/arduino-pro-ide/nightly/arduino-pro-ide_nightly-latest_macOS_64bit.dmg
 
-> These links return an HTTP `302: Found` response, redirecting to latest
+> **Note:** These links return an HTTP `302: Found` response, redirecting to latest
   generated builds by replacing `latest` with the latest available build
   date, using the format YYYYMMDD (i.e for 2019/Aug/06 `latest` is
   replaced with `20190806`)
