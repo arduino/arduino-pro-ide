@@ -10,6 +10,8 @@ The Arduino Pro IDE is a completely new Development Environment for Arduino Prog
 
 ### Download
 
+#### Release builds
+
 You can download the latest release for testing and feedback from the [Releases Section](https://github.com/arduino/arduino-pro-ide/releases/latest) of this repo.
 *<b>Note</b>: This is not a production release!*
 
@@ -35,6 +37,20 @@ Platform    | 32 bit                     | 64 bit                     |
   replaced with `20190806`)
 
 You can find the changelog for the nightly builds [here](https://downloads.arduino.cc/arduino-pro-ide/nightly/CHANGELOG.txt). The changelog contains all changes since the [latest release](https://github.com/arduino/arduino-pro-ide/releases/latest) in reverse chronological order.
+
+### Install
+
+Arduino Pro IDE does not require an installer. Just extract the downloaded file to a convenient location.
+
+### Usage
+
+To start Arduino Pro IDE, run the executable you'll find in its installation folder:
+
+- Windows: `Arduino Pro IDE.exe`
+- Linux: `arduino-pro-ide`
+- macOS: `Arduino Pro IDE.app`
+
+**Note:** It's not possible to start Arduino Pro IDE on Linux from the file browser. Open a terminal in the Arduino Pro IDE installation folder and run the command `./arduino-pro-ide`
 
 ### Install a core to support your board 
 The Arduino Pro IDE does not provide pre-installed cores, so, to have board support, you have to install a core by using the menu
